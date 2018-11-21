@@ -1,0 +1,298 @@
+body{
+	margin:0;
+}
+.Gmail{
+	position: fixed;
+	width: 100%;
+	height: 64px;
+	box-shadow: 0px 0px 3px 1px grey;
+	background-color: white;
+}
+.link{
+	display: block;
+	width: 152px;
+	height: 64px;
+	text-decoration: none;
+	font-size: 30px;
+	margin-top: 10px;
+	margin-left: 32px;
+	color:#757575;
+	float: left;
+}
+.img1{
+	width:24px;
+	height:24px;
+	margin-top:5px;
+}
+.wraplink a{
+	text-decoration: none;
+	color: #757575;
+	font-family: Helvetica;
+	font-size: 18px;
+}
+.wraplink{
+	float: right;
+	width: 482.183;
+	height: 100%;
+}
+.a1{
+	width: 132.9px;
+	display: block;
+	height: 100%;
+	float: left;
+	margin-top:20px;
+}
+.a1:hover{
+	color:#dd5347;
+}
+.a2:hover{
+	color:#dd5347;
+}
+.a2{
+	width: 112.867px;
+	display: block;
+	height: 100%;
+	float: left;
+	margin-top:20px;
+}
+.a3{
+	width: 236.417px;
+	background-color:#dd5347;
+	display: block;
+	height: 64px;
+	float: left;
+}
+p{
+	color: #ffff;
+	margin-top: 20px;
+	margin-left: 25px;
+}
+.isi1{
+	background: url(../img/main1.jpg);
+	width: 100%;
+	height: 482px;
+	padding-top: 130px;
+}
+.text{
+	width: 445.167px;
+	height: 248px;
+	font-size: 50px;
+	margin-left: 10%;
+	font-family: Helvetica;
+}
+.a4{
+	display: block;
+	height: 44px;
+	width: 236.417px;
+	background-color:#dd5347;
+	font-size: 20px;
+	text-decoration: none;
+	color: #ffff;
+	padding-top: 19px;
+	padding-left: 10px;
+	margin-left: 6%;
+}
+.isi2{
+	width: 400px;
+	height:162px;
+	margin:auto;
+	margin-top:120px;
+}
+.isi2 p{
+	color: black;
+
+}
+.img3{
+	width: 100%;
+	height: 100px;
+	margin-top: 64px;
+	padding-bottom: 100px;
+}
+.isi3{
+	width: 782.417px;
+	height: 273.867px;
+	margin:auto;
+}
+.isi3 p{
+	color: black;
+}
+.imgicon{
+	width: 168px;
+	height: 50px;
+	border-radius: 4px;
+	margin-left: 27%;
+}
+.imgicon1{
+	width: 168px;
+	height: 50px;
+	border-radius: 4px;
+	margin-left: 5%;
+}
+.img4{
+	width: 100%;
+	height: 520.85px;
+	margin-top: -50px;
+}
+.isi4{
+	height: 200px;
+	width: 350px;
+}
+.isi4 p{
+	color: black;
+	font-family: calibri light;
+}
+.img5{
+	width: 809.4px;
+	height: 467.85px;
+	/*float: right;*/
+	margin-top: -70px;
+	margin-left: 40%;
+}
+.isi5{
+	width: 400px;
+	margin:auto;
+}
+.isi5 p{
+	color: black;
+	font-family: calibri light;
+}
+.img6{
+	width: 956px;
+	height: 589.017px;
+	margin-left: 15%;
+	padding-bottom: 150px;
+}
+.isi6{
+	width: 550px;
+	height: 129.2px;
+	margin: auto;
+}
+.isi6 p{
+	color: black;
+}
+.img7{
+	width: 890.333px;
+	height: 340.183px;
+	margin-top: 70px;
+	margin-left: 18%;
+}
+.img8{
+	width: 821px;
+	height: 576px;
+	margin-top: 200px;
+	float: left;
+}
+.compose{
+	width:450px;
+	height: 202.4px;
+	float: right;
+	margin-top: 400px;
+}
+.compose p{
+	color:black;
+}
+.isi7{
+	width:508px;
+	height: 334.2px;
+	margin:auto;
+	margin-top: 900px;
+	opacity: 1;
+	padding-top: 100px;
+}
+.isi7 p{
+	color: black;
+	opacity: 1;
+}
+.fortune{
+	background-color:#f9f9f9;
+}
+.a7{
+	width: 200px;
+	background-color:#dd5347;
+	display: block;
+	height: 49px;
+	float: left;
+	margin-left: 30%;
+	text-decoration: none;
+	margin-top:10px;
+	font-size: 18px;
+}
+.a7 p{
+	margin-top: 10px;
+	margin-left: 30%;
+	color: #ffff;
+}
+.rainbow{
+	height: 4px;
+	float: left;
+	margin-top: 10px;
+}
+.nn{
+	width:60%;
+	background-color: #ffff; 
+}
+.bl{
+	width: 5%;
+	background-color: blue;
+}
+.rd{
+	width: 5%;
+	background-color:red;
+}
+.yel{
+	width:5%;
+	background-color: yellow;
+}
+.gr{
+	width: 5%;
+	background-color:green;
+}
+.nn2{
+	width: 20%;
+	background-color:#ffff;
+}
+.footer{
+	width: 100%;
+	height: 276px;
+}
+.icon{
+	width:849px;
+	height: 47px;
+	margin-left: 7%;
+}
+.icon img{
+	width: 18px;
+	height: 18px;
+	margin-left: 1%;
+	margin-top: 50px;
+}
+.links img{
+	width: 36px;
+	height: 22px;
+	margin-left: 7%;
+}
+.links{
+	margin-top: 50px;
+	margin-left: 7.5%;
+}
+.links a{
+	text-decoration: none;
+	color: 
+}
+.finish{
+	width: 100%;
+	height: 59px;
+	margin-top: 110px;
+	margin-left: 5.5%;
+}
+.finish a{
+	text-decoration: none;
+	font-size: 12px;
+	margin-left: 2%;
+	margin-top: -10px;
+}
+.finish select{
+	width: 320px;
+	margin-left: 40%;
+	margin-top: 10px;
+}
