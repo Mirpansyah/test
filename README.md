@@ -1,4 +1,4 @@
 # test
-my first git
+my first gits
 and its great
 
